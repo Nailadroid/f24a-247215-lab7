@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  font-family: "Segoe UI", sans-serif;
+  font-size: 22px;
+  line-height: 1.4;
+  background: #f6f4ef;
+  color: #222;
+}
+#root { padding: 1.25rem 1.5rem 3rem; }
+header.place { padding: 1rem 1.25rem; margin: 0 0 1rem; }
+button, input { font: inherit; }
+button { margin: 0.35rem 0.35rem 0.35rem 0; padding: 0.4rem 0.8rem; }
+button.card { display: block; max-width: 36rem; text-align: left; }
+input { padding: 0.35rem 0.6rem; }
+footer { margin-top: 1.5rem; font-size: 16px; }
